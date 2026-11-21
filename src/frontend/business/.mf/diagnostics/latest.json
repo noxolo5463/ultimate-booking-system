@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"\\\"C:\\\\\\\\Program Files\\\\\\\\nodejs\\\\\\\\node.exe\\\" C:\\\\Side-Projects\\\\ultimate-booking-system\\\\src\\\\frontend\\\\business\\\\node_modules\\\\typescript\\\\bin\\\\tsc --project C:\\\\Side-Projects\\\\ultimate-booking-system\\\\src\\\\frontend\\\\business\\\\node_modules\\\\.federation\\\\tsconfig.ce8d0ab20a5c6945bddef4cbbf1c899b.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "\"C:\\\\Program Files\\\\nodejs\\\\node.exe\" C:\\Side-Projects\\ultimate-booking-system\\src\\frontend\\business\\node_modules\\typescript\\bin\\tsc --project C:\\Side-Projects\\ultimate-booking-system\\src\\frontend\\business\\node_modules\\.federation\\tsconfig.ce8d0ab20a5c6945bddef4cbbf1c899b.json"
+    },
+    "timestamp": 1795301559177
+  }
+}
