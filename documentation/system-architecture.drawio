@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="EVmjDsptcGdFvTcWsPK3" name="Page-1">
+        <mxGraphModel dx="1573" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="BVTexn8p-x8hgKOOKgal-6" edge="1" parent="1" source="BVTexn8p-x8hgKOOKgal-1" style="edgeStyle=none;html=1;" target="BVTexn8p-x8hgKOOKgal-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BVTexn8p-x8hgKOOKgal-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeWidth=4;strokeColor=#6A6A6A;fillColor=#DCDCDC;" value="&lt;b&gt;User/Browser&lt;/b&gt;&lt;br&gt;Access application" vertex="1">
+                    <mxGeometry height="50" width="150" x="260" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="BVTexn8p-x8hgKOOKgal-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeWidth=4;strokeColor=#3333FF;fillColor=light-dark(#09f2f6, #303030);" value="&lt;b&gt;Ultimate Booking Platform&lt;/b&gt;&lt;br&gt;Host/Shell&lt;div&gt;localhost:5000&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="240" x="215" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="BVTexn8p-x8hgKOOKgal-12" edge="1" parent="1" source="BVTexn8p-x8hgKOOKgal-4" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" target="BVTexn8p-x8hgKOOKgal-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BVTexn8p-x8hgKOOKgal-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeWidth=4;strokeColor=#FF8000;fillColor=#FFE6CC;" value="&lt;b&gt;Customer MFE&lt;/b&gt;&lt;br&gt;&lt;div&gt;React/Vite&lt;/div&gt;&lt;div&gt;localhost:2000&amp;nbsp;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="240" x="455" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="BVTexn8p-x8hgKOOKgal-13" edge="1" parent="1" source="BVTexn8p-x8hgKOOKgal-5" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;curved=0;" target="BVTexn8p-x8hgKOOKgal-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BVTexn8p-x8hgKOOKgal-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeWidth=4;strokeColor=#009900;fillColor=#99FF99;" value="&lt;b&gt;Business MFE&lt;/b&gt;&lt;br&gt;&lt;div&gt;React/Vite&lt;/div&gt;&lt;div&gt;localhost:7000&amp;nbsp;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="240" x="-10" y="310" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
